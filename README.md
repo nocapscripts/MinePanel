@@ -4,4 +4,4 @@ This plugin shows minecraft server status player count, active players and serve
 
 
 
-[IMG](https://i.imgur.com/dX3qwF1.png)
+![IMG](https://i.imgur.com/dX3qwF1.png)
