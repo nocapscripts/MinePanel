@@ -1,6 +1,6 @@
 # What is this plugin for?
 
-This plugin shows minecraft server status player count, active players and server plugins.
+This plugin shows minecraft server status, player count, active players as table form and server plugins.
 
 
 
