@@ -8,7 +8,7 @@ This plugin shows minecraft server status player count, active players and serve
 
 
 
-# Usage
+# Configuration
 
 * **server-name** is for your server name.
 * **web-port** is for your web interface port.
